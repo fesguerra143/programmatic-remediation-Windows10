@@ -44,7 +44,7 @@ This project is about remediating a Windows 10 VM with the following vulnerabili
 
 ### Step 3) Login to tenable
 
-<img width="700" alt="tenablelogin" src="https://github.com/user-attachments/assets/65aa3c73-113b-4b85-8b79-de3a142d4e4b" />
+<img width="400" alt="tenablelogin" src="https://github.com/user-attachments/assets/65aa3c73-113b-4b85-8b79-de3a142d4e4b" />
 
 ---
 
@@ -68,8 +68,10 @@ This project is about remediating a Windows 10 VM with the following vulnerabili
 ### Step 5) Remediation Implementation
 
 ##### Remediate FireFox
-powershell -ExecutionPolicy Bypass -File "C:\users\labuser\desktop\remediation-FireFox-uninstall.ps1"
-<img width="700" alt="scan results" src="https://github.com/user-attachments/assets/2cf0f6bb-51c9-4052-9649-7a3049937a0e" />
+
+<img width="700" alt="scan results" src="https://github.com/user-attachments/assets/8bb0add0-ae35-411e-bdcd-f267df0f28fe" />
+
+![remediate-firefox](remediation/remediation-FireFox-uninstall.ps1)
 
 ##### Remediate SMB v1
 powershell -ExecutionPolicy Bypass -File "C:\users\labuser\desktop\remediation-SMBv1.ps1"
