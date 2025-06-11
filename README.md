@@ -66,32 +66,7 @@ This project is about remediating a Windows 10 VM with the following vulnerabili
 
 <img width="700" alt="credentials" src="https://github.com/user-attachments/assets/18a0ca1f-7065-4e2a-9d10-8c28267efaf0" />
 
-
 #### Scan Results 
-
-##### Vulns by Plugin
-<img width="700" alt="scan results" src="https://github.com/user-attachments/assets/a4f25d56-2ffd-4694-9bda-058c08fba39a" />
-
-##### Audits
-<img width="700" alt="scan results" src="https://github.com/user-attachments/assets/fd8d6565-aef6-47c9-aed9-bb3227d63248" />
-
-###### Guest Account Non-Compliance 
-Guest Account is enabled. 
-
-<img width="700" alt="scan results" src="https://github.com/user-attachments/assets/7d3a2c06-daab-4627-b925-0f620b031d2a" />
-
-
-###### Password Non-Compliance 
-Password was set to password. 
-
-<img width="700" alt="scan results" src="https://github.com/user-attachments/assets/201ac62c-1951-4288-bf2e-43b72fafc81b" />
-
-
-##### Vulns by Asset
-<img width="700" alt="scan results" src="https://github.com/user-attachments/assets/89386387-01af-4017-a7c2-2a4ee8ca4ad6" />
-
-
-##### Remediations
 <img width="700" alt="scan results" src="https://github.com/user-attachments/assets/6b0af59f-559b-42c1-9015-365ddbbd5e6e" />
 
 
