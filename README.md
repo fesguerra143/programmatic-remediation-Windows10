@@ -48,36 +48,13 @@ This project is about remediating a Windows 10 VM with the following vulnerabili
 <img width="700" alt="wf" src="https://github.com/user-attachments/assets/b2cc7376-5bc6-4cf1-82ad-e549a2c393ee" />
 
 ---
-### Step 3) Administrator Account & Assign Group
 
-#### Create Administrator user account 
-
-<img width="700" alt="wf" src="https://github.com/user-attachments/assets/d3ed6359-bbd9-4332-9515-e873b4f354fd" />
-
-#### Assign to administrators group
-
-<img width="700" alt="wf" src="https://github.com/user-attachments/assets/4301bbb7-6801-4595-9106-5ed69624cdad" />
-
----
-
-### Step 4) Guest Account & Assign Group
-#### Enable Guest Account
-
-<img width="700" alt="wf" src="https://github.com/user-attachments/assets/9fa00fea-21ea-45dc-8de9-38ead71fc399" />
-
-
-#### Assign Guest to administrators group
-
-<img width="700" alt="wf" src="https://github.com/user-attachments/assets/2d124c00-76c0-47c3-88f2-3c2c16a29e86" />
-
----
-
-### Step 5) Login to tenable
+### Step 3) Login to tenable
 
 <img width="700" alt="tenablelogin" src="https://github.com/user-attachments/assets/65aa3c73-113b-4b85-8b79-de3a142d4e4b" />
 
 ---
-### Step 6) Create a Scan Template
+### Step 4) Create a Scan Template
 #### Configure Scan Basic settings
 
 <img width="700" alt="scan" src="https://github.com/user-attachments/assets/d4250fe1-8622-492b-8d4c-1e3886e99b31" />
