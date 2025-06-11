@@ -19,7 +19,12 @@ This project is about remediating a Windows 10 VM with the following vulnerabili
 ---
 # Table of contents
 
-
+- [Step 1) Provision virtual machine in the Azure portal](#step-1-provision-virtual-machine-in-the-azure-portal)
+- [Step 2) Log into the VM and disable the Windows Firewall](#step-2-log-into-the-vm-and-disable-the-windows-firewall)
+- [Step 3) Login to tenable](#step-3-login-to-tenable)
+- [Step 4) Create a Custom Scan](#step-4-create-a-custom-scan)
+- [Step 5) Remediation Implementation](#step-5-remediation-implementation)
+- [Step 6) Scan Results After Remediation](#step-6-scan-results-after-remediation)
 ---
 
 
@@ -89,7 +94,7 @@ This project is about remediating a Windows 10 VM with the following vulnerabili
 
 
 ---
-### Step 6)Scan Results After Remediation
+### Step 6) Scan Results After Remediation
 
 <img width="700" alt="scan results" src="https://github.com/user-attachments/assets/2cf0f6bb-51c9-4052-9649-7a3049937a0e" />
 
