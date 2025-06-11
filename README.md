@@ -69,9 +69,10 @@ This project is about remediating a Windows 10 VM with the following vulnerabili
 
 ##### Remediate FireFox
 
-<img width="700" alt="scan results" src="https://github.com/user-attachments/assets/8bb0add0-ae35-411e-bdcd-f267df0f28fe" />
+<img width="400" alt="scan results" src="https://github.com/user-attachments/assets/8bb0add0-ae35-411e-bdcd-f267df0f28fe" />
 
-![remediate-firefox](remediation/remediation-FireFox-uninstall.ps1)
+
+[Remediation PowerShell Script](remediation/remediation-FireFox-uninstall.ps1)
 
 ##### Remediate SMB v1
 powershell -ExecutionPolicy Bypass -File "C:\users\labuser\desktop\remediation-SMBv1.ps1"
