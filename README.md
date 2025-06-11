@@ -27,28 +27,8 @@ This project is about remediating a Windows 10 VM with vulnerabilities using DIS
 ---
 
 
-### Step 1) Create a Windows virtual machine in the Azure portal
+### Step 1) Provision virtual machine in the Azure portal
 
-#### Configure the Basics Tab: 
-
-<img width="700" alt="vm1" src="https://github.com/user-attachments/assets/152b83d4-1303-49df-b467-df2170872c0b" />
-
-
-#### Configure the Disks Tab:
-
-<img width="700" alt="vm2" src="https://github.com/user-attachments/assets/6d3819c9-b532-45f5-a509-2d89942ffbd6" />
-
-
-#### Configure the Setup Networking:
-
-<img width="700" alt="vm3" src="https://github.com/user-attachments/assets/af658652-0581-41c0-bcdf-e208ed950b41" />
-
-
-#### Review + Create:
-<img width="700" alt="vm5" src="https://github.com/user-attachments/assets/d65013ec-3c25-426d-ba6a-cbe3e0f3351f" />
-
-
-#### Deployment:
 <img width="700" alt="vm7" src="https://github.com/user-attachments/assets/9e8c5e4a-3348-47c4-9565-a3958e21ee9b" />
 
 
