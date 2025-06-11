@@ -96,10 +96,10 @@ This project is about remediating a Windows 10 VM with the following vulnerabili
 ---
 ### Step 6) Scan Results After Remediation
 
-<img width="700" alt="scan results" src="https://github.com/user-attachments/assets/2cf0f6bb-51c9-4052-9649-7a3049937a0e" />
+<img width="700" alt="scan results" src="https://github.com/user-attachments/assets/57c73500-cfc4-4cdb-9b9a-a4cc93103aa8" />
 
-#### Tenable Vulnerability Management Report
-[Tenable Vulnerability Management Report](https://drive.google.com/file/d/1wsiYlNjNFqvXqji4pbG02z2_a-n1-Hs_/view?usp=drive_link)
+
+#### [Tenable Vulnerability Management Report](https://drive.google.com/file/d/1_M0wvOA_Ny5vVql6tYUPwE0a6QHjss8H/view?usp=drive_link)
 
 
 ---
