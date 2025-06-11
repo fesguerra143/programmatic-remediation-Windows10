@@ -1,6 +1,6 @@
 
 
-# DISA STIG Compliance Project
+# Programmatic Vulnerability Remediation Windows 10 Project
 
 This project is about Scanning a Windows VM using DISA STIG Compliance
 
