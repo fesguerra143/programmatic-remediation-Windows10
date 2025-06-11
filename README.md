@@ -75,14 +75,16 @@ This project is about remediating a Windows 10 VM with the following vulnerabili
 [Remediation PowerShell Script](remediation/remediation-FireFox-uninstall.ps1)
 
 ##### Remediate SMB v1
-powershell -ExecutionPolicy Bypass -File "C:\users\labuser\desktop\remediation-SMBv1.ps1"
-<img width="700" alt="scan results" src="https://github.com/user-attachments/assets/2cf0f6bb-51c9-4052-9649-7a3049937a0e" />
+<img width="400" alt="scan results" src="https://github.com/user-attachments/assets/2c974f26-b78f-47d3-92cc-1c8a1f647c02" />
+
+[Remediation Powershell Script](remediation/remediation-SMBv1.ps1)
 
 
 ##### Remediate discouraged cryptographic protocols
-powershell -ExecutionPolicy Bypass -File "C:\users\labuser\desktop\toggle-win10-protocols.ps1"
-<img width="700" alt="scan results" src="https://github.com/user-attachments/assets/2cf0f6bb-51c9-4052-9649-7a3049937a0e" />
+<img width="400" alt="scan results" src="https://github.com/user-attachments/assets/72b61abf-5959-4ab0-8ed5-b992bdf36cbf" />
 
+
+[Remediation Powershell Script](https://github.com/fesguerra143/automation/blob/cc635a606dfa9d55829f1b4ffbe6a9d34a4debad/toggle-protocols.ps1)
 
 
 
