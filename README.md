@@ -19,13 +19,6 @@ This project is about remediating a Windows 10 VM with the following vulnerabili
 ---
 # Table of contents
 
-- [Step 1) Create a Windows virtual machine in the Azure portal](#step-1-create-a-windows-virtual-machine-in-the-azure-portal)
-- [Step 2) Log into the VM and disable the Windows Firewall](#step-2-log-into-the-vm-and-disable-the-windows-firewall)
-- [Step 3) Administrator Account & Assign Group](#step-3-administrator-account--assign-group)
-- [Step 4) Guest Account & Assign Group](#step-4-guest-account--assign-group)
-- [Step 5) Login to tenable](#step-5-login-to-tenable)
-- [Step 6) Create a Scan Template](#step-6-create-a-scan-template)
-- [Step 7) Create a Custom Scan](#step-7-create-a-custom-scan)
 
 ---
 
