@@ -1,15 +1,16 @@
 
 
-# Programmatic Vulnerability Remediation Windows 10 Project
+# Programmatic Vulnerability Remediation Project
 
-This project is about Scanning a Windows VM using DISA STIG Compliance
+This project is about remediating a Windows 10 VM with vulnerabilities using DISA STIG Compliance
 
-![Scanning Windows DISA STIG Compliance](https://github.com/user-attachments/assets/0475b1a7-3e0e-40a8-9341-08d97ee65d6e)
+![Windows 10](https://github.com/user-attachments/assets/09eb2273-339e-418a-b74c-ec3672980485)
 
 ---
 # Tools & Technology:
 - Tenable (enterprise vulnerability management platform)
 - Azure Virtual Machine
+- PowerShell
 
 
 ---
