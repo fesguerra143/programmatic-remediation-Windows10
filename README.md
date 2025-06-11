@@ -67,7 +67,25 @@ This project is about remediating a Windows 10 VM with the following vulnerabili
 ---
 ### Step 5) Remediation Implementation
 
-##### Scan Results After Implementing Remediation
+##### Remediate FireFox
+powershell -ExecutionPolicy Bypass -File "C:\users\labuser\desktop\remediation-FireFox-uninstall.ps1"
+<img width="700" alt="scan results" src="https://github.com/user-attachments/assets/2cf0f6bb-51c9-4052-9649-7a3049937a0e" />
+
+##### Remediate SMB v1
+powershell -ExecutionPolicy Bypass -File "C:\users\labuser\desktop\remediation-SMBv1.ps1"
+<img width="700" alt="scan results" src="https://github.com/user-attachments/assets/2cf0f6bb-51c9-4052-9649-7a3049937a0e" />
+
+
+##### Remediate discouraged cryptographic protocols
+powershell -ExecutionPolicy Bypass -File "C:\users\labuser\desktop\toggle-win10-protocols.ps1"
+<img width="700" alt="scan results" src="https://github.com/user-attachments/assets/2cf0f6bb-51c9-4052-9649-7a3049937a0e" />
+
+
+
+
+---
+### Step 6)Scan Results After Remediation
+
 <img width="700" alt="scan results" src="https://github.com/user-attachments/assets/2cf0f6bb-51c9-4052-9649-7a3049937a0e" />
 
 #### Tenable Vulnerability Management Report
