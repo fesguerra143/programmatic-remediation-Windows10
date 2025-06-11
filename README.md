@@ -2,7 +2,10 @@
 
 # Programmatic Vulnerability Remediation Project
 
-This project is about remediating a Windows 10 VM with vulnerabilities using DISA STIG Compliance
+This project is about remediating a Windows 10 VM with the following vulnerabilities using DISA STIG Compliance vulnerability scan:
+- Old Version of FireFox: Insecure Software Windows
+- Enable SMB v1
+- Enable discouraged cryptographic protocols: SSL 2.0, SSL 3.0, TLS 1.0, TLS 1.1 
 
 ![Windows 10](https://github.com/user-attachments/assets/09eb2273-339e-418a-b74c-ec3672980485)
 
