@@ -64,6 +64,10 @@ This project is about remediating a Windows 10 VM with the following vulnerabili
 
 <img width="700" alt="credentials" src="https://github.com/user-attachments/assets/18a0ca1f-7065-4e2a-9d10-8c28267efaf0" />
 
+#### Configure Scan Credential settings
+
+<img width="700" alt="credentials" src="https://github.com/user-attachments/assets/606215a5-f8da-466c-bcd1-edbdbbd42ddb" />
+
 #### Scan Results Prior Remediation
 <img width="700" alt="scan results" src="https://github.com/user-attachments/assets/4f0b71f1-f2a7-4141-a21c-3a6accac36fd" />
 
