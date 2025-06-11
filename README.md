@@ -55,7 +55,7 @@ This project is about remediating a Windows 10 VM with the following vulnerabili
 
 ---
 
-### Step 7) Create a Custom Scan
+### Step 4) Create a Custom Scan
 
 #### Select a DISA STIG Template
 
