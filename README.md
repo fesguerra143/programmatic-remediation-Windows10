@@ -54,36 +54,6 @@ This project is about remediating a Windows 10 VM with the following vulnerabili
 <img width="700" alt="tenablelogin" src="https://github.com/user-attachments/assets/65aa3c73-113b-4b85-8b79-de3a142d4e4b" />
 
 ---
-### Step 4) Create a Scan Template
-#### Configure Scan Basic settings
-
-<img width="700" alt="scan" src="https://github.com/user-attachments/assets/d4250fe1-8622-492b-8d4c-1e3886e99b31" />
-
-#### Configure Scan Discovery settings
-
-<img width="700" alt="scan" src="https://github.com/user-attachments/assets/59c72b13-4c4a-47ad-8e52-d8a6e93ffb35" />
-
-
-#### Configure Scan Assessment settings
-
-<img width="700" alt="scan" src="https://github.com/user-attachments/assets/a8059fd5-dfe6-4d70-b22c-a7969569a71f" />
-
-
-#### Configure Scan Credentials settings
-
-<img width="700" alt="scan" src="https://github.com/user-attachments/assets/a8e8a96e-186d-4556-8a2d-49728dde31c7" />
-
-#### Configure Scan Compliance settings
-
-<img width="700" alt="scan" src="https://github.com/user-attachments/assets/4ace1c7b-e033-42bd-bcb7-3583e1a36e17" />
-
-
-#### Configure Scan Plugins settings
-
-<img width="700" alt="scan" src="https://github.com/user-attachments/assets/9fbe50c2-8b2c-4e97-a158-e34384fad8ae" />
-
-
----
 
 ### Step 7) Create a Custom Scan
 
