@@ -20,11 +20,11 @@ This project is about remediating a Windows 10 VM with the following vulnerabili
 # Table of contents
 
 
-- [Step 1) Log into the VM and disable the Windows Firewall](#step-2-log-into-the-vm-and-disable-the-windows-firewall)
-- [Step 2) Login to tenable](#step-3-login-to-tenable)
-- [Step 3) Create a Custom Scan](#step-4-create-a-custom-scan)
-- [Step 4) Remediation Implementation](#step-5-remediation-implementation)
-- [Step 5) Scan Results After Remediation](#step-6-scan-results-after-remediation)
+- [Step 1) Log into the VM and disable the Windows Firewall](#step-1-log-into-the-vm-and-disable-the-windows-firewall)
+- [Step 2) Login to tenable](#step-2-login-to-tenable)
+- [Step 3) Create a Custom Scan](#step-3-create-a-custom-scan)
+- [Step 4) Remediation Implementation](#step-4-remediation-implementation)
+- [Step 5) Scan Results After Remediation](#step-5-scan-results-after-remediation)
 ---
 
 
