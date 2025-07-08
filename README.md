@@ -19,22 +19,20 @@ This project is about remediating a Windows 10 VM with the following vulnerabili
 ---
 # Table of contents
 
-- [Step 1) Provision virtual machine in the Azure portal](#step-1-provision-virtual-machine-in-the-azure-portal)
-- [Step 2) Log into the VM and disable the Windows Firewall](#step-2-log-into-the-vm-and-disable-the-windows-firewall)
-- [Step 3) Login to tenable](#step-3-login-to-tenable)
-- [Step 4) Create a Custom Scan](#step-4-create-a-custom-scan)
-- [Step 5) Remediation Implementation](#step-5-remediation-implementation)
-- [Step 6) Scan Results After Remediation](#step-6-scan-results-after-remediation)
+
+- [Step 1) Log into the VM and disable the Windows Firewall](#step-2-log-into-the-vm-and-disable-the-windows-firewall)
+- [Step 2) Login to tenable](#step-3-login-to-tenable)
+- [Step 3) Create a Custom Scan](#step-4-create-a-custom-scan)
+- [Step 4) Remediation Implementation](#step-5-remediation-implementation)
+- [Step 5) Scan Results After Remediation](#step-6-scan-results-after-remediation)
 ---
 
 
-### Step 1) Provision virtual machine in the Azure portal
 
-<img width="700" alt="vm7" src="https://github.com/user-attachments/assets/9e8c5e4a-3348-47c4-9565-a3958e21ee9b" />
 
 
 ---
-### Step 2) Log into the VM and disable the Windows Firewall 
+### Step 1) Log into the VM and disable the Windows Firewall 
 
 #### Bastion Connection:
 
@@ -47,13 +45,13 @@ This project is about remediating a Windows 10 VM with the following vulnerabili
 
 ---
 
-### Step 3) Login to tenable
+### Step 2) Login to tenable
 
 <img width="400" alt="tenablelogin" src="https://github.com/user-attachments/assets/65aa3c73-113b-4b85-8b79-de3a142d4e4b" />
 
 ---
 
-### Step 4) Create a Custom Scan
+### Step 3) Create a Custom Scan
 
 #### Select a DISA STIG Template
 
@@ -74,7 +72,7 @@ This project is about remediating a Windows 10 VM with the following vulnerabili
 
 #### [Tenable Vulnerability Management Report](https://drive.google.com/file/d/1nMRHKEVorILV_Hu9w-JCPfZ9BqZymT0g/view?usp=sharing)
 ---
-### Step 5) Remediation Implementation
+### Step 4) Remediation Implementation
 
 ##### Remediate FireFox
 
@@ -98,7 +96,7 @@ This project is about remediating a Windows 10 VM with the following vulnerabili
 
 
 ---
-### Step 6) Scan Results After Remediation
+### Step 5) Scan Results After Remediation
 
 <img width="700" alt="scan results" src="https://github.com/user-attachments/assets/57c73500-cfc4-4cdb-9b9a-a4cc93103aa8" />
 
